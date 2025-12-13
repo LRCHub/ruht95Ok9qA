@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Daydreamin'",
+  "base_artist": "KEIJU",
+  "createdAt": "2025-12-13T05:06:00.937107Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Daydreamin",
+      "artist": "MC Solaar",
+      "has_synced": true,
+      "path": "select/01_Daydreamin_MC_Solaar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Daydreamin",
+      "artist": "MC Solaar",
+      "has_synced": false,
+      "path": "select/02_Daydreamin_MC_Solaar.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Daydreamin' (Radio Edit)",
+      "artist": "Lupe Fiasco featuring Jill Scott featuring Jill Scott",
+      "has_synced": true,
+      "path": "select/03_Daydreamin'_(Radio_Edit)_Lupe_Fiasco_featuring_Jill_Scott_featuring_Jill_Scott.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Daydreamin' (Featuring Jill Scott)",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/04_Daydreamin'_(Featuring_Jill_Scott)_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Daydreamin'",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/05_Daydreamin'_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Daydreamin'",
+      "artist": "Boomkat",
+      "has_synced": true,
+      "path": "select/06_Daydreamin'_Boomkat.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Daydreamin'",
+      "artist": "Jessie J",
+      "has_synced": true,
+      "path": "select/07_Daydreamin'_Jessie_J.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Daydreamin' (feat. Jill Scott)",
+      "artist": "Lupe Fiasco feat. Jill Scott",
+      "has_synced": true,
+      "path": "select/08_Daydreamin'_(feat._Jill_Scott)_Lupe_Fiasco_feat._Jill_Scott.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Daydreamin' (feat. Jill Scott)",
+      "artist": "Lupe Fiasco, Jill Scott",
+      "has_synced": true,
+      "path": "select/09_Daydreamin'_(feat._Jill_Scott)_Lupe_Fiasco,_Jill_Scott.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Daydreamin'",
+      "artist": "Jill Scott feat. Lupe Fiasco",
+      "has_synced": false,
+      "path": "select/10_Daydreamin'_Jill_Scott_feat._Lupe_Fiasco.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Daydreamin'",
+      "artist": "Smokie",
+      "has_synced": true,
+      "path": "select/11_Daydreamin'_Smokie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Daydreamin' (1975)",
+      "artist": "Smokie",
+      "has_synced": true,
+      "path": "select/12_Daydreamin'_(1975)_Smokie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Havana Daydreamin'",
+      "artist": "Jimmy Buffett",
+      "has_synced": true,
+      "path": "select/13_Havana_Daydreamin'_Jimmy_Buffett.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Havana Daydreamin'",
+      "artist": "Jimmy Buffett",
+      "has_synced": true,
+      "path": "select/14_Havana_Daydreamin'_Jimmy_Buffett.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Daydreamin'",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/15_Daydreamin'_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Daydreamin'",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": false,
+      "path": "select/16_Daydreamin'_Earth,_Wind_&_Fire.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Daydreamin",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/17_Daydreamin_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Daydreamin'",
+      "artist": "Barenaked Ladies",
+      "has_synced": true,
+      "path": "select/18_Daydreamin'_Barenaked_Ladies.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Daydreamin' (feat. Gottz & 7)",
+      "artist": "KEIJU",
+      "has_synced": false,
+      "path": "select/pl_01_Daydreamin'_(feat._Gottz_&_7)_KEIJU.txt"
+    }
+  ]
+}
