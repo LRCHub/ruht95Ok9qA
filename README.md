@@ -1,4 +1,4 @@
-# KEIJU – Daydreamin'
+# KEIJU – Daydreamin'（feat. Gottz、7）
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
